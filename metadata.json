@@ -1,0 +1,8 @@
+{
+  "name": "MS APP",
+  "description": "Comprehensive condominium management and daily cleaning/maintenance checklist platform for property managers and supervisors.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
